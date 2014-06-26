@@ -1,0 +1,8 @@
+p
+  | This is the index or main page of the chrome extension
+br
+link-to "bookmarks"
+  | View bookmarks
+br
+link-to "tabs"
+  | View tabs

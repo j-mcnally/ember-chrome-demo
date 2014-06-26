@@ -1,0 +1,6 @@
+link-to "index"
+  | Back
+ul
+  each bookmark in bookmarks
+    li
+      =bookmark

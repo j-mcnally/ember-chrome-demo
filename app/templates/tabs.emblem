@@ -1,0 +1,6 @@
+link-to "index"
+  | Back
+ul
+  each tab in tabs
+    li
+      =tab
