@@ -15,3 +15,10 @@ Example chrome extension built with Ember-Cli
 ## Building
 
 * `ember build --environment production`
+
+
+## Adding to chrome
+
+* Goto chrome://extensions
+* Select load unpacked extension
+* Select the dist folder
